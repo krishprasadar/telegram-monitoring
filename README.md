@@ -14,3 +14,5 @@
 
 Note: the first time you login a session needs to be created which lasts for some 8 hrs i guess. Telegram has a 2 factor auth. But session is saved so you can quit script and login again without doing 2 factor.
 Also since this process is running on terminal and system does't sleep I played a [countdown time](https://www.youtube.com/watch?v=xmGaAjeqaBQ) on the browser, which wouldn't make the system go to sleep.
+
+### Feel free to modify or change script as per your need
