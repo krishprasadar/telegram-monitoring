@@ -1,3 +1,3 @@
-api_id=15060692
-api_hash=8c3140273610b8f5a08494bed6b88e0b
-phone=+16198005004
+api_id=
+api_hash=
+phone=<Enter phone number here with extension like +1 if usa>
