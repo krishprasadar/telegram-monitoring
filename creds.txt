@@ -1,3 +1,3 @@
-api_id=
-api_hash=
+api_id=<Enter app id from telegram registeration>
+api_hash=<Enter app hash>
 phone=<Enter phone number here with extension like +1 if usa>
